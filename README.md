@@ -188,5 +188,7 @@ maintenance:
 The work is supplied without warranty as specified in the LPPL. Naming a
 maintainer provides a contact for reports; it does not promise support or fixes.
 
-Using GraphicNovel to write a script does not, by itself, place that script or
+Using GraphicNovel to write a bible or script does not, by itself, place that bible or script or
 the resulting graphic novel under the package's licence.
+
+CraftSyntax would love an acknowledgement, though.
