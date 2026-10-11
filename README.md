@@ -108,11 +108,15 @@ Save the following as `example.tex` beside `graphicnovel.cls`.
 \end{document}
 ~~~
 
-Compile it with:
+Compile it with (make sure you have the graphicnovel.cls in the project space, or in the LaTex search path, or use the CraftSyntax compiler):
 
 ~~~sh
 pdflatex example.tex
 ~~~
+It ends up looking like this:
+
+<img width="1452" height="1482" alt="image" src="https://github.com/user-attachments/assets/f4e0ebbe-14a4-48d2-8266-450a4f2b3886" />
+
 
 Declare eras before defining their appearances. Start a story, then set its
 current era before referring to characters, places, or objects. A new story
