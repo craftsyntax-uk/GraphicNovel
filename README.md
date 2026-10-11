@@ -9,7 +9,7 @@ Project: **CraftSyntax.uk**
 
 GraphicNovel uses the working language of comics: stories, eras, pages,
 panels, locations, shots, action, dialogue, captions, and sound effects.
-Consistency matters as much to the artist as to the writer.
+Consistency matters as much to the artist, inkers and letterers as to the writer.
 
 The reference bible is authoritative. Characters, places, persistent objects,
 expressions, tells, and continuity notes are defined once, then referenced
