@@ -1,6 +1,6 @@
 # GraphicNovel
 
-**A semantic LaTeX class for graphic-novel and comic scripts.**
+**A semantic MarkUp language for graphic-novel and comic scripts that's actually useful.**
 
 Version 0.5, released 22 September 2026  
 Author and current maintainer: **Tom Bronte**  
